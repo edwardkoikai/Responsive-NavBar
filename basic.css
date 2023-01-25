@@ -1,0 +1,27 @@
+.container{
+    padding: 10px;
+    font-size: 1em;
+    text-align: center;
+    color: #ffff;
+    background-color: aqua;
+   
+    
+
+}
+html, body{
+    background-color: #b2d9e4fe;
+    box-sizing: border-box;
+    margin: 20px;
+}
+li{
+    list-style-type:none;
+    width: 100px;
+
+    
+}
+.search>input{
+    background-color: aqua;
+    color: #ffff;
+    border: none;
+    outline: none;
+}
